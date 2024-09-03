@@ -1,0 +1,1335 @@
+[
+	{
+    "reporteeList": [
+        {
+            "reporteeName": "Rahul Chari",
+            "reporteeEmail": "mdpuser03@innoventes.co",
+            "positionName": "Chief Technology Officer",
+            "selected": true,
+            "value": "PN200539",
+            "heirarchy": [
+                {
+                    "reporteeName": "Ambrish Bajaj",
+                    "reporteeEmail": "k2ro9frkzcvo0@electrainc.com",
+                    "positionName": "Product Director - Merchant Payments",
+                    "selected": false,
+                    "value": "PN200227",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Harjot Singh",
+                            "reporteeEmail": "18dtojbp6w64@electrainc.com",
+                            "positionName": "Associate Director - Product Management",
+                            "selected": false,
+                            "value": "PN200498",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Shyam Prasath B",
+                            "reporteeEmail": "ce0fcki327dp42@electrainc.com",
+                            "positionName": "Group Product Manager",
+                            "selected": false,
+                            "value": "PN255408",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Amit Premchand Bohra",
+                    "reporteeEmail": "ljezywgpa2@electrainc.com",
+                    "positionName": "Head Of Engineering",
+                    "selected": false,
+                    "value": "PN201967",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Rahul Sharma",
+                            "reporteeEmail": "05g0sb5@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN202017",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Manikandan M G",
+                            "reporteeEmail": "2acmaoix14j8m@electrainc.com",
+                            "positionName": "Head Of Engineering-Quality",
+                            "selected": false,
+                            "value": "PN203075",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Dnyanesh Munde",
+                                    "reporteeEmail": "sjiembxdqumhua@electrainc.com",
+                                    "positionName": "Engineering Manager - Test",
+                                    "selected": false,
+                                    "value": "PN200038",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Jai Aravind J",
+                                    "reporteeEmail": "ctgzj771m7o@electrainc.com",
+                                    "positionName": "Engineering Manager-Quality",
+                                    "selected": false,
+                                    "value": "PN203093",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Monalisa Tripathy",
+                                    "reporteeEmail": "ftyq5l22hjluudoig@electrainc.com",
+                                    "positionName": "Engineering Manager - Test",
+                                    "selected": false,
+                                    "value": "PN203780",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Nishanth Thirumalai",
+                                    "reporteeEmail": "ucfwzcgpod@electrainc.com",
+                                    "positionName": "Engineering Manager, Quality",
+                                    "selected": false,
+                                    "value": "PN260402",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Mohit Jain",
+                                            "reporteeEmail": "nfklw1vtaz@electrainc.com",
+                                            "positionName": "Engineering Manager-Quality",
+                                            "selected": false,
+                                            "value": "PN203078",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Rajesh Chaudhary",
+                                            "reporteeEmail": "a8hdcjcbubi41x4y@electrainc.com",
+                                            "positionName": "Engineering Manager - Test",
+                                            "selected": false,
+                                            "value": "PN203090",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Nithin Kumar S",
+                                            "reporteeEmail": "jdvm58iw@electrainc.com",
+                                            "positionName": "Engineering Manager - Test",
+                                            "selected": false,
+                                            "value": "PN255499",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Abhijith Nair",
+                                    "reporteeEmail": "yfepoqb3wb1im@electrainc.com",
+                                    "positionName": "Engineering Manager, Quality",
+                                    "selected": false,
+                                    "value": "PN262505",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Amritlal Hariram Singh",
+                                            "reporteeEmail": "sus7s8b1mn0q31@electrainc.com",
+                                            "positionName": "Engineering Manager, Backend",
+                                            "selected": false,
+                                            "value": "PN250129",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Apoorv Kesharwani",
+                            "reporteeEmail": "ssk5xddo5utxme3mt@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN203327",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Deepak Kumar Modak",
+                            "reporteeEmail": "alk7rx36sst5@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN203328",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Animesh Lahiri",
+                    "reporteeEmail": "zyiez6nemmrnny@electrainc.com",
+                    "positionName": "Product Director - Lending",
+                    "selected": false,
+                    "value": "PN203054",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Akash Kumar Singhi",
+                            "reporteeEmail": "jjg0oh317vxy@electrainc.com",
+                            "positionName": "Associate Director, Product Management",
+                            "selected": false,
+                            "value": "PN201255",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Kunal Mathur",
+                            "reporteeEmail": "010brwkfbeli@electrainc.com",
+                            "positionName": "Senior Product Manager",
+                            "selected": false,
+                            "value": "PN240062",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Aniruddha Shashikant Patwardhan",
+                    "reporteeEmail": "r5z63k5vyyh0e9ic41a2@electrainc.com",
+                    "positionName": "Head Of Engineering",
+                    "selected": false,
+                    "value": "PN201684",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Mitesh Mehta",
+                            "reporteeEmail": "p3b63bxfzbkf@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN200517",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Pooja Gulrajani",
+                            "reporteeEmail": "zfe4h6fi2yzci0p@electrainc.com",
+                            "positionName": "Head Of Engineering",
+                            "selected": false,
+                            "value": "PN200959",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Abhiram Kaushik R",
+                                    "reporteeEmail": "u7i06optvkil597@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN200337",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Akshay Arni",
+                                            "reporteeEmail": "estme9wfyuy@electrainc.com",
+                                            "positionName": "Engineering Manager",
+                                            "selected": false,
+                                            "value": "PN201753",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Apurva Sharma",
+                                    "reporteeEmail": "hut1vy9ceoh96@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN202078",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Navneet Rao",
+                                    "reporteeEmail": "50vcum2vomu@electrainc.com",
+                                    "positionName": "Head of Engineering",
+                                    "selected": false,
+                                    "value": "PN202463",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Ameya Kulkarni",
+                                            "reporteeEmail": "l73psl3bdzd1gj@electrainc.com",
+                                            "positionName": "Engineering Manager",
+                                            "selected": false,
+                                            "value": "PN203321",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Yashasvini Ks",
+                                    "reporteeEmail": "i9bqqdzzvrvkr@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN203338",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Hardik Arvindbhai Belani",
+                            "reporteeEmail": "ety4ze2p0i48q@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN201119",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Nipun Shah",
+                            "reporteeEmail": "3qsdzngek7@electrainc.com",
+                            "positionName": "Head Of Engineering",
+                            "selected": false,
+                            "value": "PN203130",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Ketan Arun Daithankar",
+                                    "reporteeEmail": "kvypnypltcv7xbpd@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN200748",
+                                    "heirarchy": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Anuj Bhansali",
+                    "reporteeEmail": "t8on5n11iemna@electrainc.com",
+                    "positionName": "Head of Trust and Safety",
+                    "selected": false,
+                    "value": "PN200248",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Niladry Roy Chowdhury",
+                            "reporteeEmail": "i8w62jkvjg349hl2y@electrainc.com",
+                            "positionName": "Associate Director",
+                            "selected": false,
+                            "value": "PN200403",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Nipun V K",
+                                    "reporteeEmail": "9ylxy75u@electrainc.com",
+                                    "positionName": "Senior Manager, Decision Science",
+                                    "selected": false,
+                                    "value": "PN201211",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Arpit Tiwari",
+                                            "reporteeEmail": "t3uljvgysm4h@electrainc.com",
+                                            "positionName": "Senior Decision Scientist",
+                                            "selected": false,
+                                            "value": "PN202273",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Vijendra Kumar Goyal",
+                                    "reporteeEmail": "drf4isxs509b0d@electrainc.com",
+                                    "positionName": "Senior Manager, Decision Science ,T&S Analytics",
+                                    "selected": false,
+                                    "value": "PN201950",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Anurag Das",
+                                            "reporteeEmail": "wd54n5vq1u@electrainc.com",
+                                            "positionName": "Senior Decision Scientist ,T&S Analytics",
+                                            "selected": false,
+                                            "value": "PN204612",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Susant Kumar Panda",
+                                            "reporteeEmail": "q8gummxfqvur@electrainc.com",
+                                            "positionName": "Senior Decision Scientist ,T&S Analytics",
+                                            "selected": false,
+                                            "value": "PN204616",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Satyajeet Kumar",
+                            "reporteeEmail": "0niwljuvf6vxbd3@electrainc.com",
+                            "positionName": "Director, T&S Ops",
+                            "selected": false,
+                            "value": "PN202125",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Mayur Devidas Gokhe",
+                                    "reporteeEmail": "8wf6xm0clfv@electrainc.com",
+                                    "positionName": "Senior Manager - AML Operations",
+                                    "selected": false,
+                                    "value": "PN200685",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Jayanth Pulluri",
+                                            "reporteeEmail": "0d3nq2htip6om89@electrainc.com",
+                                            "positionName": "Manager, AML Operations",
+                                            "selected": false,
+                                            "value": "PN200582",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Monami Roy Bera",
+                                            "reporteeEmail": "v73ss019yv@electrainc.com",
+                                            "positionName": "Associate Manager, AML Operations",
+                                            "selected": false,
+                                            "value": "PN202129",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Barun Kumar Pandey",
+                                            "reporteeEmail": "609ljw62hf4j@electrainc.com",
+                                            "positionName": "Associate Manager - AML & Surveillance(Broking)",
+                                            "selected": false,
+                                            "value": "PN221519",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Srinivas Prasad S",
+                                    "reporteeEmail": "1iavqizlf1@electrainc.com",
+                                    "positionName": "Senior Manager, Risk Investigation",
+                                    "selected": false,
+                                    "value": "PN202945",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Asha H V",
+                                            "reporteeEmail": "0q4ve7x@electrainc.com",
+                                            "positionName": "Associate Manager, Risk Investigation",
+                                            "selected": false,
+                                            "value": "PN202216",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Darshan Thotathanda Poovaiah",
+                                            "reporteeEmail": "4i89cmldih@electrainc.com",
+                                            "positionName": "Associate Manager Risk Investigation",
+                                            "selected": false,
+                                            "value": "PN202436",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Kunal Parmar",
+                                    "reporteeEmail": "lcuoaxqqeb0k@electrainc.com",
+                                    "positionName": "Associate Director, T&S Ops",
+                                    "selected": false,
+                                    "value": "PN221527",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Kavya Shree L P",
+                                            "reporteeEmail": "0ihi5jm@electrainc.com",
+                                            "positionName": "Manager, Risk Investigation",
+                                            "selected": false,
+                                            "value": "PN200794",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Ashish Baweja",
+                    "reporteeEmail": "qjche2njm5x6g@electrainc.com",
+                    "positionName": "Head Of Engineering",
+                    "selected": false,
+                    "value": "PN200271",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Abhijit K G",
+                            "reporteeEmail": "ra26oj1p2hd@electrainc.com",
+                            "positionName": "Engineering Manager-App",
+                            "selected": false,
+                            "value": "PN200294",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Manuj Batra",
+                            "reporteeEmail": "f8chu9yy7md@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN254803",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Neerav Mehta",
+                            "reporteeEmail": "46ba0342pete@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN254972",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Burzin Engineer",
+                    "reporteeEmail": "dzt6p0itf@electrainc.com",
+                    "positionName": "Chief Reliability Officer",
+                    "selected": false,
+                    "value": "PN200288",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Reeshna Ramakrishnan",
+                            "reporteeEmail": "7wjh1ob@electrainc.com",
+                            "positionName": "Senior Manager - Infrastructure Services",
+                            "selected": false,
+                            "value": "PN200306",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Nagaraj Bommu",
+                            "reporteeEmail": "scq18pnqvtkqa@electrainc.com",
+                            "positionName": "Head - Information Security",
+                            "selected": false,
+                            "value": "PN200326",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Jay Chawda",
+                            "reporteeEmail": "5cdejxw@electrainc.com",
+                            "positionName": "Head Of Engineering - SRE",
+                            "selected": false,
+                            "value": "PN200654",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Yogesh Singh",
+                                    "reporteeEmail": "ffugwzcaor37@electrainc.com",
+                                    "positionName": "Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN200675",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Ankit Sanjay Timbadia",
+                                    "reporteeEmail": "e0s6apxq5opinj@electrainc.com",
+                                    "positionName": "Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN201390",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Shejin Jacob Paulose",
+                                    "reporteeEmail": "a8ezq3qz0evrkn@electrainc.com",
+                                    "positionName": "Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN202435",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Bakhtyar Vachha",
+                                    "reporteeEmail": "gzh8e75qakk36rp@electrainc.com",
+                                    "positionName": "Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN202566",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Nitin Agarwal",
+                                    "reporteeEmail": "7woc5mox50x4p@electrainc.com",
+                                    "positionName": "Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN203404",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Nikhil Jain",
+                                    "reporteeEmail": "w1j4fyy98ms@electrainc.com",
+                                    "positionName": "Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN250047",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Krishnanarayanan V R",
+                            "reporteeEmail": "ptg8vmfaa7@electrainc.com",
+                            "positionName": "Head Of Engineering - SRE",
+                            "selected": false,
+                            "value": "PN201368",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Raja Prathap Varma",
+                                    "reporteeEmail": "mc96c4hgxcqdx@electrainc.com",
+                                    "positionName": "Head Of Engineering - SRE",
+                                    "selected": false,
+                                    "value": "PN200189",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Ashokraj Vittaldoss Jayaraj",
+                                            "reporteeEmail": "wz5qt5gi5aj@electrainc.com",
+                                            "positionName": "Snr Manager, DC Ops",
+                                            "selected": false,
+                                            "value": "PN200081",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Vishal Rajan",
+                                            "reporteeEmail": "0l99jk2ejy0z@electrainc.com",
+                                            "positionName": "Sr Engineering Manager, SRE",
+                                            "selected": false,
+                                            "value": "PN201273",
+                                            "heirarchy": [
+                                                {
+                                                    "reporteeName": "Pratik Kumar",
+                                                    "reporteeEmail": "jl0yt9laa96n@electrainc.com",
+                                                    "positionName": "Engineering Manager, SRE",
+                                                    "selected": false,
+                                                    "value": "PN200505",
+                                                    "heirarchy": []
+                                                },
+                                                {
+                                                    "reporteeName": "Jebastin R",
+                                                    "reporteeEmail": "0j3mecfxio@electrainc.com",
+                                                    "positionName": "Engineering Manager, SRE",
+                                                    "selected": false,
+                                                    "value": "PN202376",
+                                                    "heirarchy": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "reporteeName": "Remyasree M K",
+                                            "reporteeEmail": "6wsu6lktpcly@electrainc.com",
+                                            "positionName": "Sr Engineering Manager, SRE",
+                                            "selected": false,
+                                            "value": "PN201686",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Nandhu Dheeraj Alapati",
+                                            "reporteeEmail": "6r3uftadtd5d@electrainc.com",
+                                            "positionName": "Sr Engineering Manager, SRE",
+                                            "selected": false,
+                                            "value": "PN203208",
+                                            "heirarchy": [
+                                                {
+                                                    "reporteeName": "Aniruddha Anil Joshi",
+                                                    "reporteeEmail": "e0xwp60n5xrf2gf@electrainc.com",
+                                                    "positionName": "Engineering Manager, SRE",
+                                                    "selected": false,
+                                                    "value": "PN201367",
+                                                    "heirarchy": []
+                                                },
+                                                {
+                                                    "reporteeName": "Aniruddha Arvind Thombre",
+                                                    "reporteeEmail": "0j02df0z8r7@electrainc.com",
+                                                    "positionName": "Engineering Manager, SRE",
+                                                    "selected": false,
+                                                    "value": "PN201687",
+                                                    "heirarchy": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Saurabh Deshpande",
+                                    "reporteeEmail": "dh3g8iyd2yvg2ee4j@electrainc.com",
+                                    "positionName": "Sr Engineering Manager, SRE",
+                                    "selected": false,
+                                    "value": "PN200828",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Arati Prasad Kulkarni",
+                                            "reporteeEmail": "bfdgb2mfaz90u5@electrainc.com",
+                                            "positionName": "Engineering Manager, SRE",
+                                            "selected": false,
+                                            "value": "PN200304",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Mandar Shinde",
+                                            "reporteeEmail": "bqvwyfcf5bxjl@electrainc.com",
+                                            "positionName": "Engineering Manager, SRE",
+                                            "selected": false,
+                                            "value": "PN200653",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Gaurav Kumar Tomar",
+                                            "reporteeEmail": "9gw4hu54r7e6@electrainc.com",
+                                            "positionName": "Engineering Manager, SRE",
+                                            "selected": false,
+                                            "value": "PN200829",
+                                            "heirarchy": []
+                                        },
+                                        {
+                                            "reporteeName": "Devanand Sivaprakasam",
+                                            "reporteeEmail": "j6dpr23ft9@electrainc.com",
+                                            "positionName": "Engineering Manager",
+                                            "selected": false,
+                                            "value": "PN205339",
+                                            "heirarchy": [
+                                                {
+                                                    "reporteeName": "Rahul Devale",
+                                                    "reporteeEmail": "8h92o5xx7rlh@electrainc.com",
+                                                    "positionName": "Senior Service Delivery Engineer, SRE",
+                                                    "selected": false,
+                                                    "value": "PN203447",
+                                                    "heirarchy": []
+                                                },
+                                                {
+                                                    "reporteeName": "Amit Kumar",
+                                                    "reporteeEmail": "yvq1pfvnjk4@electrainc.com",
+                                                    "positionName": "Engineering Manager, SRE",
+                                                    "selected": false,
+                                                    "value": "PN203462",
+                                                    "heirarchy": []
+                                                },
+                                                {
+                                                    "reporteeName": "Prasad Kumarasamy",
+                                                    "reporteeEmail": "u1sfwbrj0x18pjhsb@electrainc.com",
+                                                    "positionName": "Engineering Manager, SRE",
+                                                    "selected": false,
+                                                    "value": "PN250364",
+                                                    "heirarchy": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Prashanth P",
+                            "reporteeEmail": "apycht2roa9@electrainc.com",
+                            "positionName": "Director - IT",
+                            "selected": false,
+                            "value": "PN201817",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Nagapanindra K S",
+                                    "reporteeEmail": "v3f6qpwaxjw35j1@electrainc.com",
+                                    "positionName": "Manager, IT",
+                                    "selected": false,
+                                    "value": "PN200303",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Siddalingaiah S G",
+                                    "reporteeEmail": "83bws1b3ob0sp2c3@electrainc.com",
+                                    "positionName": "Senior IT Manager",
+                                    "selected": false,
+                                    "value": "PN200535",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "K Satish Kumar",
+                                            "reporteeEmail": "pxetzp2udsd0u@electrainc.com",
+                                            "positionName": "Assistant Manager",
+                                            "selected": false,
+                                            "value": "PN201391",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Mubin Nandavar",
+                                    "reporteeEmail": "1winkiirgzd41x@electrainc.com",
+                                    "positionName": "Manager, IT",
+                                    "selected": false,
+                                    "value": "PN200625",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Naveen Kumar B",
+                                            "reporteeEmail": "0uzglh38@electrainc.com",
+                                            "positionName": "Senior System Engineer",
+                                            "selected": false,
+                                            "value": "PN201818",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "reporteeName": "Rajesh Kumar Singh",
+                                    "reporteeEmail": "spazpqs3k0h022kl5@electrainc.com",
+                                    "positionName": "Senior IT Manager",
+                                    "selected": false,
+                                    "value": "PN201219",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Pervesh Kumar",
+                                    "reporteeEmail": "kbvpyra7jl9nk@electrainc.com",
+                                    "positionName": "Network Engineer 3",
+                                    "selected": false,
+                                    "value": "PN202150",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Krishna Thatta Prasanth",
+                            "reporteeEmail": "uh5l0rb50@electrainc.com",
+                            "positionName": "Architect, Site Reliability",
+                            "selected": false,
+                            "value": "PN202464",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Pulkit Agrawal",
+                                    "reporteeEmail": "im4mdhyatllosb@electrainc.com",
+                                    "positionName": "Software Engineer",
+                                    "selected": false,
+                                    "value": "PN201236",
+                                    "heirarchy": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Gaurav Lochan",
+                    "reporteeEmail": "y4s9vwtt4mkcl@electrainc.com",
+                    "positionName": "Head Of Engineering, App",
+                    "selected": false,
+                    "value": "PN260101",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Vijay Raghavan R",
+                            "reporteeEmail": "5ck2ios@electrainc.com",
+                            "positionName": "Engineering Manager, App",
+                            "selected": false,
+                            "value": "PN203092",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Anenth Guru Selvaguru",
+                            "reporteeEmail": "t2gsghugxb2@electrainc.com",
+                            "positionName": "Engineering Manager- App",
+                            "selected": false,
+                            "value": "PN250818",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Gautham Krishnamurthy",
+                    "reporteeEmail": "jpg34vwpgy3f@electrainc.com",
+                    "positionName": "Product Director - Customer Excellence",
+                    "selected": false,
+                    "value": "PN201658",
+                    "heirarchy": []
+                },
+                {
+                    "reporteeName": "Kedar Swadi",
+                    "reporteeEmail": "ab3t598kdl0@electrainc.com",
+                    "positionName": "Principal Data Scientist",
+                    "selected": false,
+                    "value": "PN201968",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Rohit Ashok Walimbe",
+                            "reporteeEmail": "vyh5o7drtnzja@electrainc.com",
+                            "positionName": "Engineering Manager, Data Science",
+                            "selected": false,
+                            "value": "PN200264",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Sarvesh Vijay Pradhan",
+                            "reporteeEmail": "9p3eouio146fgeg@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN250971",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Kisalay Ranjan",
+                    "reporteeEmail": "un5izxkxu3mq4z@electrainc.com",
+                    "positionName": "Head Of Engineering",
+                    "selected": false,
+                    "value": "PN200338",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Tirthankar Chowdhury",
+                            "reporteeEmail": "s9rk3cyquitq@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN200900",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Sudhir Kumar Singh",
+                                    "reporteeEmail": "jqi19zqg5qtb@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN200026",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Jivitesh Bansal",
+                                    "reporteeEmail": "7k0g0mp5napwqx7@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN203339",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Prateek Mathur",
+                                    "reporteeEmail": "58ty7vd7wifm9l@electrainc.com",
+                                    "positionName": "Engineering Manager, Product Support",
+                                    "selected": false,
+                                    "value": "PN203837",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Mayank Singh",
+                            "reporteeEmail": "11sak1pt3ia3@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN203128",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Manish Kumar",
+                            "reporteeEmail": "qusjaw5ngnxft@electrainc.com",
+                            "positionName": "Engineering Manager, Backend",
+                            "selected": false,
+                            "value": "PN250371",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Vinodh Balaji",
+                            "reporteeEmail": "7zjnopj8m6ps9@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN254987",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Masum Kumar Lodha",
+                                    "reporteeEmail": "w4rp2nku94w@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN200619",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Jayati Singhal",
+                                    "reporteeEmail": "rh4wpul8yvjo0u@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN203169",
+                                    "heirarchy": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Madan Venugopal",
+                    "reporteeEmail": "7x4mofxnso8xfcd@electrainc.com",
+                    "positionName": "Engineering Manager, Backend",
+                    "selected": false,
+                    "value": "PN254937",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Prem Shankar Gupta",
+                            "reporteeEmail": "95opl34i9d7cbwapz@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN255492",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Maulik Shukla",
+                    "reporteeEmail": "z5zn8gvn7enam@electrainc.com",
+                    "positionName": "Head Of Engineering",
+                    "selected": false,
+                    "value": "PN260100",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Ankit Nautiyal",
+                            "reporteeEmail": "c0l1x2hn324fls@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN200895",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Suraj Kumar Jha",
+                            "reporteeEmail": "4d6yhjb2j@electrainc.com",
+                            "positionName": "Engineering Manager, Backend",
+                            "selected": false,
+                            "value": "PN250046",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Teja Gangolu",
+                            "reporteeEmail": "snh5k28p4p22@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN250345",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Ankit Tanwani",
+                                    "reporteeEmail": "eqal4a5oyp2wk@electrainc.com",
+                                    "positionName": "Engineering Manager, Backend",
+                                    "selected": false,
+                                    "value": "PN250042",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Shubham Chintalwar",
+                            "reporteeEmail": "qbbtdzq5bxflyb0dgs@electrainc.com",
+                            "positionName": "CTO, GigIndia",
+                            "selected": false,
+                            "value": "PN250800",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Pramod G S",
+                    "reporteeEmail": "x7nfg1x93@electrainc.com",
+                    "positionName": "Product Director - Insurance",
+                    "selected": false,
+                    "value": "PN203057",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Siddharth Mehndiratta",
+                            "reporteeEmail": "rdwoqu3rvxg@electrainc.com",
+                            "positionName": "Senior Product Manager",
+                            "selected": false,
+                            "value": "PN201942",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Praveen Kumathalli",
+                    "reporteeEmail": "hm8rmwdcstwy790cg6@electrainc.com",
+                    "positionName": "Product Director - Payments Gateway",
+                    "selected": false,
+                    "value": "PN201821",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Sudarshan Kabra",
+                            "reporteeEmail": "9k00jszhd7r2f4o@electrainc.com",
+                            "positionName": "Group Product Manager",
+                            "selected": false,
+                            "value": "PN202567",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Radhakrishna Ramaseshu",
+                    "reporteeEmail": "mj8jrd53crm9wu@electrainc.com",
+                    "positionName": "Head Of Engineering-App",
+                    "selected": false,
+                    "value": "PN202147",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Mohamed Rafiq",
+                            "reporteeEmail": "kjmisp1euviom@electrainc.com",
+                            "positionName": "Engineering Manager, App",
+                            "selected": false,
+                            "value": "PN202025",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Piyush Kumar Jain",
+                            "reporteeEmail": "d01i3fnv0l55@electrainc.com",
+                            "positionName": "Engineering Manager-App",
+                            "selected": false,
+                            "value": "PN202264",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Sumeet Kumar Gupta",
+                            "reporteeEmail": "ul85zdjb63nt@electrainc.com",
+                            "positionName": "Engineering Manager, App",
+                            "selected": false,
+                            "value": "PN202295",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Aalap Shah",
+                            "reporteeEmail": "tv3nj4m6gn@electrainc.com",
+                            "positionName": "Engineering Manager-App",
+                            "selected": false,
+                            "value": "PN203624",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Anil Giri",
+                            "reporteeEmail": "dn7m9y8qz@electrainc.com",
+                            "positionName": "Engineering Manager- App",
+                            "selected": false,
+                            "value": "PN250882",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Anshul Kamboj",
+                            "reporteeEmail": "agmzdeivbhl8y@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN200293",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Rahul Kedia",
+                    "reporteeEmail": "wwjqc7lshki@electrainc.com",
+                    "positionName": "Head of Digital Marketing",
+                    "selected": false,
+                    "value": "PN200004",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Raghav Singhal",
+                            "reporteeEmail": "n5bza6tjh4391z@electrainc.com",
+                            "positionName": "Director",
+                            "selected": false,
+                            "value": "PN203860",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Kumud Ranjan",
+                                    "reporteeEmail": "zt84kz7pq6sw@electrainc.com",
+                                    "positionName": "Associate Manager - Offer Operations",
+                                    "selected": false,
+                                    "value": "PN200799",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Manisha Yadav",
+                                    "reporteeEmail": "287ba4rb3gdre@electrainc.com",
+                                    "positionName": "Manager - CRM Operations",
+                                    "selected": false,
+                                    "value": "PN203859",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Priya Meenakshi Narasimhan",
+                            "reporteeEmail": "ihm2wv0@electrainc.com",
+                            "positionName": "Head of Ad Revenue",
+                            "selected": false,
+                            "value": "PN200005",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Valli Muthu",
+                                    "reporteeEmail": "mmz6k81@electrainc.com",
+                                    "positionName": "Manager, Ad Operations",
+                                    "selected": false,
+                                    "value": "PN200253",
+                                    "heirarchy": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Santanu Sinha",
+                    "reporteeEmail": "d54zqbe@electrainc.com",
+                    "positionName": "Architect",
+                    "selected": false,
+                    "value": "PN202159",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Ankur Bhargava",
+                            "reporteeEmail": "fzf4x9uwfvk4vu@electrainc.com",
+                            "positionName": "Head of Engineering, App Security",
+                            "selected": false,
+                            "value": "PN200153",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Shashank Gautam",
+                            "reporteeEmail": "xzzszr9qru@electrainc.com",
+                            "positionName": "Head of Engineering",
+                            "selected": false,
+                            "value": "PN200620",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Priyansh Jain",
+                                    "reporteeEmail": "7974dir0cc14f@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN202852",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Vibhuti Aggarwal",
+                                    "reporteeEmail": "6wwnohhtr2ae57d4@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN254842",
+                                    "heirarchy": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Shashank Agarwal",
+                    "reporteeEmail": "jgr76zie1nlqqljn@electrainc.com",
+                    "positionName": "Product Director - Trust & Safety",
+                    "selected": false,
+                    "value": "PN200454",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Ashwin Jayaraman",
+                            "reporteeEmail": "ctw3hcj98ymltgij@electrainc.com",
+                            "positionName": "Group Product Manager",
+                            "selected": false,
+                            "value": "PN202282",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Shreesh Vurutha",
+                    "reporteeEmail": "1yda1myhz@electrainc.com",
+                    "positionName": "Product Director - Central Platforms",
+                    "selected": false,
+                    "value": "PN201070",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Shekhar Suman",
+                            "reporteeEmail": "mpttwy30skdi9@electrainc.com",
+                            "positionName": "Group Product Manager",
+                            "selected": false,
+                            "value": "PN201868",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Srijon Biswas",
+                    "reporteeEmail": "0jooyjtar8oy1@electrainc.com",
+                    "positionName": "Head Of Engineering",
+                    "selected": false,
+                    "value": "PN200624",
+                    "heirarchy": [
+                        {
+                            "reporteeName": "Ramesh Perumalsamy",
+                            "reporteeEmail": "6t3iqc7e@electrainc.com",
+                            "positionName": "Head Of Engineering",
+                            "selected": false,
+                            "value": "PN200036",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Alpa Khatri",
+                                    "reporteeEmail": "0ux9mwfc8fo@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN202933",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Piyush Nagle",
+                                    "reporteeEmail": "l436rwrgj4n7@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN203297",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Shilp Gupta",
+                                    "reporteeEmail": "vntpikrc0ym@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN250329",
+                                    "heirarchy": [
+                                        {
+                                            "reporteeName": "Akash Goel",
+                                            "reporteeEmail": "03ma38qg24@electrainc.com",
+                                            "positionName": "Engineering Manager",
+                                            "selected": false,
+                                            "value": "PN254891",
+                                            "heirarchy": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Priya Dharshini G",
+                            "reporteeEmail": "thcz3tduvyjzm1o@electrainc.com",
+                            "positionName": "Software Engineer",
+                            "selected": false,
+                            "value": "PN200596",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Himanshu Sahu",
+                            "reporteeEmail": "zxudauz2ce262@electrainc.com",
+                            "positionName": "Head Of Engineering",
+                            "selected": false,
+                            "value": "PN203076",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Vijayakrishnan Nair",
+                                    "reporteeEmail": "0ypy8zumkpate0chqu@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN221463",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Makarand Nilesh Mone",
+                                    "reporteeEmail": "qlklxhymta9ydoq@electrainc.com",
+                                    "positionName": "Engineering Manager",
+                                    "selected": false,
+                                    "value": "PN221465",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Nagaraju Epuri",
+                            "reporteeEmail": "u4nbfs74n@electrainc.com",
+                            "positionName": "Engineering Manager, Web",
+                            "selected": false,
+                            "value": "PN203080",
+                            "heirarchy": [
+                                {
+                                    "reporteeName": "Shobhit Jain",
+                                    "reporteeEmail": "we1uf9qe4bf2@electrainc.com",
+                                    "positionName": "Engineering Manager, Web",
+                                    "selected": false,
+                                    "value": "PN201918",
+                                    "heirarchy": []
+                                },
+                                {
+                                    "reporteeName": "Sravya Chodisetti",
+                                    "reporteeEmail": "eoyap7ptz1l6t6uua@electrainc.com",
+                                    "positionName": "Engineering Manager, Web",
+                                    "selected": false,
+                                    "value": "PN203423",
+                                    "heirarchy": []
+                                }
+                            ]
+                        },
+                        {
+                            "reporteeName": "Nitin Kumar",
+                            "reporteeEmail": "b15x73makekp@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN255501",
+                            "heirarchy": []
+                        },
+                        {
+                            "reporteeName": "Pushp Raj Saurabh",
+                            "reporteeEmail": "eiag6mvbgybxs@electrainc.com",
+                            "positionName": "Engineering Manager",
+                            "selected": false,
+                            "value": "PN255513",
+                            "heirarchy": []
+                        }
+                    ]
+                },
+                {
+                    "reporteeName": "Suhas Suresh Choulgere",
+                    "reporteeEmail": "r90ehvwjochij7m@electrainc.com",
+                    "positionName": "Product Director - Accounting",
+                    "selected": false,
+                    "value": "PN240065",
+                    "heirarchy": []
+                }
+            ]
+        }
+    ],
+    "reporteeListToolTip": "Navigate into any Manager's scorecard through this"
+}
+]

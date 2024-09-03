@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "actionFilters": {
+      "type": "array",
+      "items": {}
+    },
+    "actionTable": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "levelTwoTitle": {
+          "type": "string"
+        },
+        "columns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "levelTwoTitle": {
+                "type": "string"
+              },
+              "key": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "title",
+              "levelTwoTitle",
+              "key"
+            ]
+          }
+        },
+        "data": {
+          "type": "array",
+          "items": {}
+        },
+        "footer": {
+          "type": "string"
+        },
+        "openCount": {
+          "type": "number"
+        },
+        "completedCount": {
+          "type": "number"
+        },
+        "expiredCount": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "title",
+        "levelTwoTitle",
+        "columns",
+        "data",
+        "footer",
+        "openCount",
+        "completedCount",
+        "expiredCount"
+      ]
+    }
+  },
+  "required": [
+    "actionFilters",
+    "actionTable"
+  ]
+}

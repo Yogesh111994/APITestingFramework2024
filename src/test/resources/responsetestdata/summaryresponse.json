@@ -1,0 +1,607 @@
+[
+	{
+	    "metrics": {
+	        "summaryToolTips": {},
+	        "attritions": [
+	            {
+	                "displayLabel": "TTM Attrition ",
+	                "displayValue": "(1)",
+	                "statisticsVal": "18%",
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "By Grade ",
+	                        "displayValue": "(1)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [
+	                            {
+	                                "displayLabel": "Grade 5 : ",
+	                                "displayValue": "1",
+	                                "statisticsVal": null,
+	                                "statisticsTrendInd": null,
+	                                "color": "black",
+	                                "itemChanged": null,
+	                                "cardItemList": [],
+	                                "funnelItemList": [],
+	                                "toolTip": ""
+	                            }
+	                        ],
+	                        "funnelItemList": [],
+	                        "toolTip": "- Split of Attrited Employees \n- Navigate to Deep Dive to see comparison with Function Average"
+	                    },
+	                    {
+	                        "displayLabel": "By Gender ",
+	                        "displayValue": "(1)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [
+	                            {
+	                                "displayLabel": "Female ",
+	                                "displayValue": "(1)",
+	                                "statisticsVal": null,
+	                                "statisticsTrendInd": null,
+	                                "color": "black",
+	                                "itemChanged": null,
+	                                "cardItemList": [],
+	                                "funnelItemList": [],
+	                                "toolTip": ""
+	                            }
+	                        ],
+	                        "funnelItemList": [],
+	                        "toolTip": "- Split of Attrited Employees \n- Navigate to Deep Dive to see comparison with Function Average"
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "- Attrition in the last 12 months in your Span \n- Attrition % : Total Attrition in last 12 months / Average Headcount"
+	            },
+	            {
+	                "displayLabel": "Separation Reasons",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Regrettable Attrition ",
+	                        "displayValue": "(Total 0)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Un-Regrettable Attrition ",
+	                        "displayValue": "(Total 1)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [
+	                            {
+	                                "displayLabel": "Reason not captured ",
+	                                "displayValue": "(1)",
+	                                "statisticsVal": null,
+	                                "statisticsTrendInd": null,
+	                                "color": "black",
+	                                "itemChanged": null,
+	                                "cardItemList": [],
+	                                "funnelItemList": [],
+	                                "toolTip": ""
+	                            }
+	                        ],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "- Split by Attrition Type (Regretted vs Un-regretted) \n- Further split by Reasons captured at the time of leaving"
+	            }
+	        ],
+	        "hirings": [
+	            {
+	                "displayLabel": "Summary",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Number of external hires (TTM): ",
+	                        "displayValue": "(5)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": "Employees who have joined the team from outside PhonePe, in the last 12 months"
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": ""
+	            },
+	            {
+	                "displayLabel": "Summary of Hiring Funnel",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Hiring not initiated : ",
+	                        "displayValue": "1",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Job approval pending : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Hiring In-Progress (Positions) : ",
+	                        "displayValue": "2",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Offer Stage : ",
+	                        "displayValue": "1",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Yet to join : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "Hiring status of vacant / to be vacant positions in your team"
+	            },
+	            {
+	                "displayLabel": "Hiring in Progress ",
+	                "displayValue": "(1 Roles)",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Product Manager / Senior Product Manager ",
+	                        "displayValue": "(1 Opening(s))",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [
+	                            {
+	                                "displayLabel": "Aging: ",
+	                                "displayValue": "112 Days",
+	                                "statisticsVal": null,
+	                                "statisticsTrendInd": null,
+	                                "color": "black",
+	                                "itemChanged": null,
+	                                "cardItemList": [],
+	                                "funnelItemList": [],
+	                                "toolTip": "- Time since hiring has been initiated \n- In case this looks high, have a conversation with your TA Partner"
+	                            },
+	                            {
+	                                "displayLabel": "Offer decline: ",
+	                                "displayValue": "1",
+	                                "statisticsVal": null,
+	                                "statisticsTrendInd": null,
+	                                "color": "black",
+	                                "itemChanged": null,
+	                                "cardItemList": [],
+	                                "funnelItemList": [],
+	                                "toolTip": "# of Offer declines against this role, in this hiring cycle"
+	                            }
+	                        ],
+	                        "funnelItemList": [],
+	                        "toolTip": "Within a Role - # of Openings, you're hiring for"
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "List of Roles in your span - for which hiring is in progress"
+	            }
+	        ],
+	        "structures": [
+	            {
+	                "displayLabel": "Summary",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "AOP: ",
+	                        "displayValue": "8",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": "Budgeted Headcount as part of Annual Operating Plan"
+	                    },
+	                    {
+	                        "displayLabel": "Occupied Positions: ",
+	                        "displayValue": "4 (50%)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": "- Fill Rate is ratio of \"Current / Budgeted\" Headcount in your span. \n- In case of Low Fill Rate %, plan your hiring with Manager, HRBP"
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": ""
+	            },
+	            {
+	                "displayLabel": "Pyramid",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Grade 8: ",
+	                        "displayValue": "1",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Grade 7: ",
+	                        "displayValue": "1",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Grade 5 & Grade 6: ",
+	                        "displayValue": "2",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "- Gives the split of Headcount in your team by Grade \n- Look for exceptions, like Higher Grade having more employees versus Lower Grade"
+	            },
+	            {
+	                "displayLabel": "Gender Diversity",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Your Span: ",
+	                        "displayValue": "0%",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Function Average: ",
+	                        "displayValue": "19%",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "- # of Females / Total Employees \n- Reference (Function / org. average) can be looked at, while hiring"
+	            }
+	        ]
+	    }
+	},
+	
+	{
+	    "metrics": {
+	        "summaryToolTips": {},
+	        "attritions": [
+	            {
+	                "displayLabel": "TTM Attrition ",
+	                "displayValue": "(0)",
+	                "statisticsVal": "0%",
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [],
+	                "funnelItemList": [],
+	                "toolTip": "- Attrition in the last 12 months in your Span \n- Attrition % : Total Attrition in last 12 months / Average Headcount"
+	            },
+	            {
+	                "displayLabel": "Separation Reasons",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Regrettable Attrition ",
+	                        "displayValue": "(Total 0)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Un-Regrettable Attrition ",
+	                        "displayValue": "(Total 0)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "- Split by Attrition Type (Regretted vs Un-regretted) \n- Further split by Reasons captured at the time of leaving"
+	            }
+	        ],
+	        "hirings": [
+	            {
+	                "displayLabel": "Summary",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Number of external hires (TTM): ",
+	                        "displayValue": "(3)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": "Employees who have joined the team from outside PhonePe, in the last 12 months"
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": ""
+	            },
+	            {
+	                "displayLabel": "Summary of Hiring Funnel",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Hiring not initiated : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Job approval pending : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Hiring In-Progress (Positions) : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Offer Stage : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Yet to join : ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "Hiring status of vacant / to be vacant positions in your team"
+	            },
+	            {
+	                "displayLabel": "Hiring in Progress ",
+	                "displayValue": "(0 Roles)",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [],
+	                "funnelItemList": [],
+	                "toolTip": "List of Roles in your span - for which hiring is in progress"
+	            }
+	        ],
+	        "structures": [
+	            {
+	                "displayLabel": "Summary",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "AOP: ",
+	                        "displayValue": "0",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": "Budgeted Headcount as part of Annual Operating Plan"
+	                    },
+	                    {
+	                        "displayLabel": "Occupied Positions: ",
+	                        "displayValue": "0 (0%)",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": "- Fill Rate is ratio of \"Current / Budgeted\" Headcount in your span. \n- In case of Low Fill Rate %, plan your hiring with Manager, HRBP"
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": ""
+	            },
+	            {
+	                "displayLabel": "Pyramid",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [],
+	                "funnelItemList": [],
+	                "toolTip": "- Gives the split of Headcount in your team by Grade \n- Look for exceptions, like Higher Grade having more employees versus Lower Grade"
+	            },
+	            {
+	                "displayLabel": "Gender Diversity",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Your Span: ",
+	                        "displayValue": "0%",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Function Average: ",
+	                        "displayValue": "0%",
+	                        "statisticsVal": null,
+	                        "statisticsTrendInd": null,
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": "- # of Females / Total Employees \n- Reference (Function / org. average) can be looked at, while hiring"
+	            }
+	        ]
+	    }
+	}
+	
+	
+	
+	
+]

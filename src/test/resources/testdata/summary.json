@@ -1,0 +1,39 @@
+[
+	{
+	    "reportee": {
+	        "reporteeName": "Ambrish Bajaj",
+	        "positionName": "Product Director - Merchant Payments",
+	        "reporteeEmail": "k2ro9frkzcvo0@electrainc.com",
+	        "selected": true
+	    },
+	    "timeline": {
+	        "timelineText": "Q2 2024: Apr - May - Jun",
+	        "selected": true,
+	        "year": "2024"
+	    },
+	    "span": {
+	        "spanText": "Direct",
+	        "selected": true
+	    }
+	},
+	
+	{
+	    "reportee": {
+	        "reporteeName": "Rahul Chari",
+	        "positionName": "Chief Technology Officer",
+	        "reporteeEmail": "mdpuser03@innoventes.co",
+	        "selected": true
+	    },
+	    "timeline": {
+	        "timelineText": "Q3 2024: Jul - Aug - Sep",
+	        "selected": true,
+	        "year": "2024"
+	    },
+	    "span": {
+	        "spanText": "Direct",
+	        "selected": true
+	    }
+	}
+
+	
+]

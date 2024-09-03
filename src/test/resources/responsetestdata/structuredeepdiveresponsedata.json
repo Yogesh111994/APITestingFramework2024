@@ -1,0 +1,241 @@
+[
+	{
+	    "aop": {
+	        "legend": {
+	            "data": [
+	                "AOP",
+	                "Occupied Position",
+	                "Fill Rate %"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "AOP",
+	                "data": [
+	                    19,
+	                    21,
+	                    22,
+	                    27,
+	                    26,
+	                    26
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Occupied Position",
+	                "data": [
+	                    17,
+	                    20,
+	                    20,
+	                    26,
+	                    25,
+	                    25
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Fill Rate %",
+	                "data": [
+	                    89,
+	                    95,
+	                    91,
+	                    96,
+	                    96,
+	                    96
+	                ],
+	                "values": [],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Oct - 2023",
+	                "Nov - 2023",
+	                "Dec - 2023",
+	                "Jan - 2024",
+	                "Feb - 2024",
+	                "Mar - 2024"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    },
+	    "headCountChange": {
+	        "legend": {
+	            "data": [
+	                "Hires",
+	                "Attrition",
+	                "Headcount Change"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Hires",
+	                "data": [
+	                    0,
+	                    1,
+	                    0,
+	                    1,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Attrition",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Headcount Change",
+	                "data": [
+	                    0,
+	                    1,
+	                    0,
+	                    1,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Oct - 2023",
+	                "Nov - 2023",
+	                "Dec - 2023",
+	                "Jan - 2024",
+	                "Feb - 2024",
+	                "Mar - 2024"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    },
+	    "gender": {
+	        "legend": {
+	            "data": [
+	                "Male",
+	                "Female",
+	                "Female %"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Male",
+	                "data": [
+	                    17,
+	                    20,
+	                    20,
+	                    26,
+	                    25,
+	                    25
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Female",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Female %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Oct - 2023",
+	                "Nov - 2023",
+	                "Dec - 2023",
+	                "Jan - 2024",
+	                "Feb - 2024",
+	                "Mar - 2024"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    },
+	    "pyramid": {
+	        "legend": {
+	            "data": [
+	                "Male",
+	                "Female"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Male",
+	                "data": [
+	                    1,
+	                    19,
+	                    5
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Female",
+	                "data": [
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "value",
+	            "data": []
+	        },
+	        "yaxis": {
+	            "type": "",
+	            "data": [
+	                "Grade 8",
+	                "Grade 9",
+	                "Grade 11"
+	            ]
+	        }
+	    }
+	}
+]

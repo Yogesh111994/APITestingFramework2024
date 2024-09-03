@@ -1,0 +1,365 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "aop": {
+      "type": "object",
+      "properties": {
+        "legend": {
+          "type": "object",
+          "properties": {
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "data"
+          ]
+        },
+        "series": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "data": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "values": {
+                "type": "array",
+                "items": {}
+              },
+              "type": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "data",
+              "values",
+              "type"
+            ]
+          }
+        },
+        "xaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        },
+        "yaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        }
+      },
+      "required": [
+        "legend",
+        "series",
+        "xaxis",
+        "yaxis"
+      ]
+    },
+    "headCountChange": {
+      "type": "object",
+      "properties": {
+        "legend": {
+          "type": "object",
+          "properties": {
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "data"
+          ]
+        },
+        "series": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "data": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "values": {
+                "type": "array",
+                "items": {}
+              },
+              "type": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "data",
+              "values",
+              "type"
+            ]
+          }
+        },
+        "xaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        },
+        "yaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        }
+      },
+      "required": [
+        "legend",
+        "series",
+        "xaxis",
+        "yaxis"
+      ]
+    },
+    "gender": {
+      "type": "object",
+      "properties": {
+        "legend": {
+          "type": "object",
+          "properties": {
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "data"
+          ]
+        },
+        "series": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "data": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "values": {
+                "type": "array",
+                "items": {}
+              },
+              "type": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "data",
+              "values",
+              "type"
+            ]
+          }
+        },
+        "xaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        },
+        "yaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        }
+      },
+      "required": [
+        "legend",
+        "series",
+        "xaxis",
+        "yaxis"
+      ]
+    },
+    "pyramid": {
+      "type": "object",
+      "properties": {
+        "legend": {
+          "type": "object",
+          "properties": {
+            "data": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "data"
+          ]
+        },
+        "series": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "data": {
+                "type": "array",
+                "items": {}
+              },
+              "values": {
+                "type": "array",
+                "items": {}
+              },
+              "type": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "data",
+              "values",
+              "type"
+            ]
+          }
+        },
+        "xaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        },
+        "yaxis": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "data": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "type",
+            "data"
+          ]
+        }
+      },
+      "required": [
+        "legend",
+        "series",
+        "xaxis",
+        "yaxis"
+      ]
+    }
+  },
+  "required": [
+    "aop",
+    "headCountChange",
+    "gender",
+    "pyramid"
+  ]
+}

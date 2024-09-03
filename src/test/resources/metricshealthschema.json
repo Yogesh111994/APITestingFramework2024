@@ -1,0 +1,234 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "health": {
+      "type": "object",
+      "properties": {
+        "summaryToolTips": {
+          "type": "object",
+          "properties": {
+            "trends": {
+              "type": "string"
+            },
+            "highlights": {
+              "type": "string"
+            },
+            "gaps": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "trends",
+            "highlights",
+            "gaps"
+          ]
+        },
+        "trends": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "displayText": {
+                "type": "string"
+              },
+              "statisticsVal": {
+                "type": "string"
+              },
+              "statisticsTrendInd": {
+                "type": "string"
+              },
+              "color": {
+                "type": "string"
+              },
+              "itemChanged": {},
+              "cardItemList": {
+                "type": "array",
+                "items": {}
+              },
+              "funnelItemList": {
+                "type": "array",
+                "items": {}
+              },
+              "toolTip": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "displayText",
+              "statisticsVal",
+              "statisticsTrendInd",
+              "color",
+              "itemChanged",
+              "cardItemList",
+              "funnelItemList",
+              "toolTip"
+            ]
+          }
+        },
+        "highlights": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "displayText": {
+                "type": "string"
+              },
+              "statisticsVal": {},
+              "statisticsTrendInd": {},
+              "color": {
+                "type": "string"
+              },
+              "itemChanged": {},
+              "cardItemList": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "displayText": {
+                      "type": "string"
+                    },
+                    "statisticsVal": {
+                      "type": "string"
+                    },
+                    "statisticsTrendInd": {
+                      "type": "string"
+                    },
+                    "color": {
+                      "type": "string"
+                    },
+                    "itemChanged": {},
+                    "cardItemList": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "funnelItemList": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "toolTip": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "displayText",
+                    "statisticsVal",
+                    "statisticsTrendInd",
+                    "color",
+                    "itemChanged",
+                    "cardItemList",
+                    "funnelItemList",
+                    "toolTip"
+                  ]
+                }
+              },
+              "funnelItemList": {
+                "type": "array",
+                "items": {}
+              },
+              "toolTip": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "displayText",
+              "statisticsVal",
+              "statisticsTrendInd",
+              "color",
+              "itemChanged",
+              "cardItemList",
+              "funnelItemList",
+              "toolTip"
+            ]
+          }
+        },
+        "gaps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "displayText": {
+                "type": "string"
+              },
+              "statisticsVal": {},
+              "statisticsTrendInd": {},
+              "color": {
+                "type": "string"
+              },
+              "itemChanged": {},
+              "cardItemList": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "displayText": {
+                      "type": "string"
+                    },
+                    "statisticsVal": {
+                      "type": "string"
+                    },
+                    "statisticsTrendInd": {
+                      "type": "string"
+                    },
+                    "color": {
+                      "type": "string"
+                    },
+                    "itemChanged": {},
+                    "cardItemList": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "funnelItemList": {
+                      "type": "array",
+                      "items": {}
+                    },
+                    "toolTip": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "displayText",
+                    "statisticsVal",
+                    "statisticsTrendInd",
+                    "color",
+                    "itemChanged",
+                    "cardItemList",
+                    "funnelItemList",
+                    "toolTip"
+                  ]
+                }
+              },
+              "funnelItemList": {
+                "type": "array",
+                "items": {}
+              },
+              "toolTip": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "displayText",
+              "statisticsVal",
+              "statisticsTrendInd",
+              "color",
+              "itemChanged",
+              "cardItemList",
+              "funnelItemList",
+              "toolTip"
+            ]
+          }
+        }
+      },
+      "required": [
+        "summaryToolTips",
+        "trends",
+        "highlights",
+        "gaps"
+      ]
+    }
+  },
+  "required": [
+    "health"
+  ]
+}

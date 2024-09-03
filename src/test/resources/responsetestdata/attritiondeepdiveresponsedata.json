@@ -1,0 +1,299 @@
+[
+	{
+	    "seperationReason": {
+	        "title": "Separation Reasons",
+	        "levelTwoTitle": "By Tenure",
+	        "columns": [
+	            {
+	                "title": "Separation Reason",
+	                "levelTwoTitle": "",
+	                "key": "Col0"
+	            },
+	            {
+	                "title": "0-6 Months",
+	                "levelTwoTitle": "",
+	                "key": "Col1"
+	            },
+	            {
+	                "title": "6-12 Months",
+	                "levelTwoTitle": "",
+	                "key": "Col2"
+	            },
+	            {
+	                "title": "12-24 Months",
+	                "levelTwoTitle": "",
+	                "key": "Col3"
+	            },
+	            {
+	                "title": "24-36 Months",
+	                "levelTwoTitle": "",
+	                "key": "Col4"
+	            },
+	            {
+	                "title": "36+ Months",
+	                "levelTwoTitle": "",
+	                "key": "Col5"
+	            }
+	        ],
+	        "data": [],
+	        "footer": ""
+	    },
+	    "grade": {
+	        "legend": {
+	            "data": [
+	                "Manager %",
+	                "Overall Function %"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Manager %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "type": "line"
+	            },
+	            {
+	                "name": "Overall Function %",
+	                "data": [
+	                    39,
+	                    45,
+	                    22,
+	                    11,
+	                    16,
+	                    10,
+	                    17,
+	                    14,
+	                    10,
+	                    9
+	                ],
+	                "values": [
+	                    1741,
+	                    329,
+	                    234,
+	                    60,
+	                    128,
+	                    27,
+	                    69,
+	                    28,
+	                    8,
+	                    8
+	                ],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Grade 100",
+	                "Grade 1",
+	                "Grade 2",
+	                "Grade 3",
+	                "Grade 4",
+	                "Grade 5",
+	                "Grade 6",
+	                "Grade 7",
+	                "Grade 8",
+	                "Grade 9"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    },
+	    "performance": {
+	        "legend": {
+	            "data": []
+	        },
+	        "series": [],
+	        "xaxis": {
+	            "type": "",
+	            "data": []
+	        },
+	        "yaxis": {
+	            "type": "",
+	            "data": []
+	        }
+	    },
+	    "gender": {
+	        "legend": {
+	            "data": [
+	                "Manager - Male %",
+	                "Manager - Female %",
+	                "Overall Function - Male %",
+	                "Overall Function - Female %"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Manager - Male %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            },
+	            {
+	                "name": "Manager - Female %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            },
+	            {
+	                "name": "Overall Function - Male %",
+	                "data": [
+	                    26,
+	                    27,
+	                    27,
+	                    30,
+	                    30,
+	                    31
+	                ],
+	                "values": [],
+	                "type": "line"
+	            },
+	            {
+	                "name": "Overall Function - Female %",
+	                "data": [
+	                    28,
+	                    28,
+	                    27,
+	                    27,
+	                    26,
+	                    24
+	                ],
+	                "values": [],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Oct - 2023",
+	                "Nov - 2023",
+	                "Dec - 2023",
+	                "Jan - 2024",
+	                "Feb - 2024",
+	                "Mar - 2024"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    },
+	    "attritionType": {
+	        "legend": {
+	            "data": [
+	                "Closing Headcount",
+	                "Attrition",
+	                "Un-regretted Attrition %",
+	                "Regretted Attrition %"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Closing Headcount",
+	                "data": [
+	                    17,
+	                    20,
+	                    20,
+	                    26,
+	                    25,
+	                    25
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Attrition",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Un-regretted Attrition %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            },
+	            {
+	                "name": "Regretted Attrition %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Oct - 2023",
+	                "Nov - 2023",
+	                "Dec - 2023",
+	                "Jan - 2024",
+	                "Feb - 2024",
+	                "Mar - 2024"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    }
+	}
+]

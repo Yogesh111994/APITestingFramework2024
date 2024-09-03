@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "actionFilters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "filterName": {
+            "type": "string"
+          },
+          "selected": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "filterName",
+          "selected"
+        ]
+      }
+    },
+    "actionTable": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "levelTwoTitle": {
+          "type": "string"
+        },
+        "columns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "levelTwoTitle": {
+                "type": "string"
+              },
+              "key": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "title",
+              "levelTwoTitle",
+              "key"
+            ]
+          }
+        },
+        "data": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Col0": {
+                "type": "object",
+                "properties": {
+                  "color": {
+                    "type": "string"
+                  },
+                  "text": {
+                    "type": "string"
+                  },
+                  "tag": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "color",
+                  "text",
+                  "tag"
+                ]
+              },
+              "Col1": {
+                "type": "object",
+                "properties": {
+                  "color": {
+                    "type": "string"
+                  },
+                  "actionId": {
+                    "type": "number"
+                  },
+                  "actionPlanId": {
+                    "type": "number"
+                  },
+                  "text": {
+                    "type": "string"
+                  },
+                  "textFormatted": {
+                    "type": "string"
+                  },
+                  "textFormat": {
+                    "type": "string"
+                  },
+                  "assignedBy": {
+                    "type": "string"
+                  },
+                  "assignedDate": {
+                    "type": "string"
+                  },
+                  "completedDate": {},
+                  "editable": {
+                    "type": "boolean"
+                  },
+                  "deletable": {
+                    "type": "boolean"
+                  },
+                  "completable": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "color",
+                  "actionId",
+                  "text",
+                  "textFormatted",
+                  "textFormat",
+                  "assignedBy",
+                  "assignedDate",
+                  "completedDate",
+                  "editable",
+                  "deletable",
+                  "completable"
+                ]
+              },
+              "Col2": {
+                "type": "string"
+              },
+              "Col3": {}
+            },
+            "required": [
+              "Col0",
+              "Col1",
+              "Col2",
+              "Col3"
+            ]
+          }
+        },
+        "footer": {
+          "type": "string"
+        },
+        "openCount": {
+          "type": "number"
+        },
+        "completedCount": {
+          "type": "number"
+        },
+        "expiredCount": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "title",
+        "levelTwoTitle",
+        "columns",
+        "data",
+        "footer",
+        "openCount",
+        "completedCount",
+        "expiredCount"
+      ]
+    }
+  },
+  "required": [
+    "actionFilters",
+    "actionTable"
+  ]
+}

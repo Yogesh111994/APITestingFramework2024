@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="API Regression Suite" verbose="1" thread-count="1"
+	parallel="tests">
+
+	<listeners>
+		<listener class-name="com.qa.phonepe.listeners.ExtentReportListener"></listener>
+	</listeners>
+
+
+	<test name="Action API Test">
+		<classes>
+			<class name="com.qa.phonepe.tests.ActionAPI" />
+		</classes>
+	</test>
+
+<!--	<test name="Application filter API">-->
+
+<!--		<classes>-->
+<!--			<class name="com.qa.phonepe.tests.ApplicationFilterAPI" />-->
+<!--		</classes>-->
+<!--	</test>-->
+
+	
+	<test name="Summary API">
+
+		<classes>
+			<class name="com.qa.phonepe.tests.SummaryAPI" />
+		</classes>
+	</test>
+	
+<!--		<test name="Team metrics and health API">-->
+
+<!--		<classes>-->
+<!--			<class name="com.qa.phonepe.tests.TeamMetricsAndHealthAPI" />-->
+<!--		</classes>-->
+	
+</suite>

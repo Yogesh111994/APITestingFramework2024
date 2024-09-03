@@ -1,0 +1,57 @@
+[
+	{
+	    "welcomeText": "Hello, mdpuser03@innoventes.co !!",
+	    "manager": true,
+	    "reporteeList": [
+	        {
+	            "reporteeName": "Rahul Chari",
+	            "reporteeEmail": "mdpuser03@innoventes.co",
+	            "positionName": "Chief Technology Officer",
+	            "selected": true,
+	            "value": "PN200539",
+	            "heirarchy": [
+	                
+	            ]
+	        }
+	    ],
+	    "timelineList": [
+	        {
+	            "timelineText": "Q3 2024: Jul - Aug - Sep",
+	            "year": "2024",
+	            "selected": true,
+	            "timelineKey": "2024_Q3 2024: Jul - Aug - Sep"
+	        },
+	        {
+	            "timelineText": "Q2 2024: Apr - May - Jun",
+	            "year": "2024",
+	            "selected": false,
+	            "timelineKey": "2024_Q2 2024: Apr - May - Jun"
+	        },
+	        {
+	            "timelineText": "Q1 2024: Jan - Feb - Mar",
+	            "year": "2024",
+	            "selected": false,
+	            "timelineKey": "2024_Q1 2024: Jan - Feb - Mar"
+	        },
+	        {
+	            "timelineText": "Q4 2023: Oct - Nov - Dec",
+	            "year": "2023",
+	            "selected": false,
+	            "timelineKey": "2023_Q4 2023: Oct - Nov - Dec"
+	        }
+	    ],
+	    "spanList": [
+	        {
+	            "spanText": "Direct",
+	            "selected": true
+	        },
+	        {
+	            "spanText": "Extended",
+	            "selected": false
+	        }
+	    ],
+	    "reporteeListToolTip": "Navigate into any Manager's scorecard through this",
+	    "spanListToolTip": "- Direct : Your immediate reportees \n- Extended : Your entire team (org).",
+	    "hrbp": false
+	}
+]

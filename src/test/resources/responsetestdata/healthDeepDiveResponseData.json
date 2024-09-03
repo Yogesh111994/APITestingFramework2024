@@ -1,0 +1,486 @@
+[
+	{
+	    "insights": {
+	        "displayLabel": "Connect Survey (2024) : Insights",
+	        "displayValue": "",
+	        "statisticsVal": null,
+	        "statisticsTrendInd": null,
+	        "color": "black",
+	        "itemChanged": null,
+	        "cardItemList": [],
+	        "funnelItemList": [],
+	        "toolTip": "All references refers to scores at your Function Level"
+	    },
+	    "survey": {
+	        "title": "",
+	        "levelTwoTitle": "",
+	        "columns": [
+	            {
+	                "title": "Connect Survey Scores",
+	                "levelTwoTitle": "",
+	                "key": "Col0"
+	            },
+	            {
+	                "title": "2024",
+	                "levelTwoTitle": "",
+	                "key": "Col1"
+	            },
+	            {
+	                "title": "2023",
+	                "levelTwoTitle": "",
+	                "key": "Col2"
+	            },
+	            {
+	                "title": "2022",
+	                "levelTwoTitle": "",
+	                "key": "Col3"
+	            }
+	        ],
+	        "data": [
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "(#/%) Survey Respondents",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "black",
+	                    "displayText": "0/0 (0%)",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col2": {
+	                    "color": "black",
+	                    "displayText": "0/0 (0%)",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col3": {
+	                    "color": "black",
+	                    "displayText": "8/14 (57%)",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Flexibility to balance work / personal needs",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "88%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Encouraged for Innovation / to try out new things",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "67%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "88%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Inputs / opinion taken into consideration for my areas of work",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "92%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Provided work that helps develop skills / competencies in current role",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "92%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "50%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "88%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Noticed / appreciated for my work and effort",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "92%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "black",
+	                    "displayText": null,
+	                    "statisticsVal": "--",
+	                    "statisticsTrendInd": "NEUTRAL"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Received actionable / high quality feedback",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "92%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "88%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Manager gives guidance for career growth in the Org.",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "black",
+	                    "displayText": null,
+	                    "statisticsVal": "71%",
+	                    "statisticsTrendInd": "NEUTRAL"
+	                },
+	                "Col2": {
+	                    "color": "black",
+	                    "displayText": null,
+	                    "statisticsVal": "0%",
+	                    "statisticsTrendInd": "NEUTRAL"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "75%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Manager gives guidance for career growth in the Org, in line with tech journey",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "red",
+	                    "displayText": null,
+	                    "statisticsVal": "60%",
+	                    "statisticsTrendInd": "DOWN"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "75%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "black",
+	                    "displayText": null,
+	                    "statisticsVal": "--",
+	                    "statisticsTrendInd": "NEUTRAL"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "My manager provided the midyear feedback in line with conversations I had in the last 6 months.",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "red",
+	                    "displayText": null,
+	                    "statisticsVal": "67%",
+	                    "statisticsTrendInd": "DOWN"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "67%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "black",
+	                    "displayText": null,
+	                    "statisticsVal": "--",
+	                    "statisticsTrendInd": "NEUTRAL"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "I could identify my strength and development areas based on the feedback received.",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "red",
+	                    "displayText": null,
+	                    "statisticsVal": "67%",
+	                    "statisticsTrendInd": "DOWN"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "67%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "black",
+	                    "displayText": null,
+	                    "statisticsVal": "--",
+	                    "statisticsTrendInd": "NEUTRAL"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Encouraged to learn from failures",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "88%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Clear understanding of Roles / Expectations",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "red",
+	                    "displayText": null,
+	                    "statisticsVal": "88%",
+	                    "statisticsTrendInd": "DOWN"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Provided with Org. context to carry out work effectively",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Equipped with tools & resources",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "red",
+	                    "displayText": null,
+	                    "statisticsVal": "75%",
+	                    "statisticsTrendInd": "DOWN"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "50%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Ongoing connects with Managers (Formal / Informal)",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "83%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            },
+	            {
+	                "Col0": {
+	                    "color": "black",
+	                    "displayText": "Encouraged for participation in Formal / Informal meetings",
+	                    "statisticsVal": null,
+	                    "statisticsTrendInd": null
+	                },
+	                "Col1": {
+	                    "color": "red",
+	                    "displayText": null,
+	                    "statisticsVal": "75%",
+	                    "statisticsTrendInd": "DOWN"
+	                },
+	                "Col2": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "67%",
+	                    "statisticsTrendInd": "UP"
+	                },
+	                "Col3": {
+	                    "color": "green",
+	                    "displayText": null,
+	                    "statisticsVal": "100%",
+	                    "statisticsTrendInd": "UP"
+	                }
+	            }
+	        ],
+	        "footer": ""
+	    }
+	}
+]

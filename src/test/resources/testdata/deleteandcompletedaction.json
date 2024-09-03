@@ -1,0 +1,19 @@
+[
+{
+    "actionData": {
+        "actionId": 50
+    },
+    "reportee": {
+        "reporteeName": "Rahul Chari",
+        "positionName": "Chief Technology Officer",
+        "reporteeEmail": "mdpuser03@innoventes.co",
+        "selected": true
+    },
+    "timeline": {
+        "timelineText": "Q3 2024: Jul - Aug - Sep",
+        "selected": true,
+        "year": "2024"
+    },
+    "status": "Open"
+}
+]

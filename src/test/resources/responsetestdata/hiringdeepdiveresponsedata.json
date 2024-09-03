@@ -1,0 +1,200 @@
+[
+	{
+	    "gender": {
+	        "legend": {
+	            "data": [
+	                "Male",
+	                "Female",
+	                "Female %"
+	            ]
+	        },
+	        "series": [
+	            {
+	                "name": "Male",
+	                "data": [
+	                    0,
+	                    1,
+	                    0,
+	                    1,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Female",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "bar"
+	            },
+	            {
+	                "name": "Female %",
+	                "data": [
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0,
+	                    0
+	                ],
+	                "values": [],
+	                "type": "line"
+	            }
+	        ],
+	        "xaxis": {
+	            "type": "",
+	            "data": [
+	                "Oct - 2023",
+	                "Nov - 2023",
+	                "Dec - 2023",
+	                "Jan - 2024",
+	                "Feb - 2024",
+	                "Mar - 2024"
+	            ]
+	        },
+	        "yaxis": {
+	            "type": "value",
+	            "data": []
+	        }
+	    },
+	    "interviewFunnel": {
+	        "title": "Interview Funnel (LIVE Applications)",
+	        "levelTwoTitle": "Positions for which hiring is in progress",
+	        "funnelSelectionListTitle": "Position",
+	        "funnelSelectionList": [
+	            "Product Manager / Senior Product Manager",
+	            "Director, T&S",
+	            "Software Engineer, DevX (3-5 years)"
+	        ],
+	        "funnelItems": {
+	            "Product Manager / Senior Product Manager": [
+	                {
+	                    "displayText": "Application Review: 2256/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 97.83174327840416
+	                },
+	                {
+	                    "displayText": "Hiring Manager Review: 3/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 0.13009540329575023
+	                },
+	                {
+	                    "displayText": "Exploratory Discussion: 32/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 1.3876843018213356
+	                },
+	                {
+	                    "displayText": "Problem Solving: 2/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 0.08673026886383348
+	                },
+	                {
+	                    "displayText": "Product Strategy: 4/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 0.17346053772766695
+	                },
+	                {
+	                    "displayText": "Tech Understanding: 4/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 0.17346053772766695
+	                },
+	                {
+	                    "displayText": "Hiring Manager Discussion: 1/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 0.04336513443191674
+	                },
+	                {
+	                    "displayText": "Debrief Round: 4/2306",
+	                    "funnelItemKey": "Product Manager / Senior Product Manager",
+	                    "percentValue": 0.17346053772766695
+	                }
+	            ],
+	            "Director, T&S": [
+	                {
+	                    "displayText": "Debrief Round: 1/1",
+	                    "funnelItemKey": "Director, T&S",
+	                    "percentValue": 100
+	                }
+	            ],
+	            "Software Engineer, DevX (3-5 years)": [
+	                {
+	                    "displayText": "Application Review: 501/504",
+	                    "funnelItemKey": "Software Engineer, DevX (3-5 years)",
+	                    "percentValue": 99.40476190476191
+	                },
+	                {
+	                    "displayText": "Machine Coding: 3/504",
+	                    "funnelItemKey": "Software Engineer, DevX (3-5 years)",
+	                    "percentValue": 0.5952380952380952
+	                }
+	            ]
+	        },
+	        "interviewStagesData": {
+	            "title": "",
+	            "levelTwoTitle": "",
+	            "columns": [
+	                {
+	                    "title": "Sourcing to Screening",
+	                    "levelTwoTitle": "",
+	                    "key": "Col0"
+	                },
+	                {
+	                    "title": "Selected for interview > De-Brief",
+	                    "levelTwoTitle": "",
+	                    "key": "Col1"
+	                },
+	                {
+	                    "title": "Decision > Offer > Offer Acceptance",
+	                    "levelTwoTitle": "",
+	                    "key": "Col2"
+	                }
+	            ],
+	            "data": [
+	                {
+	                    "Col0": "--",
+	                    "Col1": "--",
+	                    "Col2": "--"
+	                }
+	            ],
+	            "footer": "Red/Green indicated comparison for your Function Average"
+	        },
+	        "offersData": {
+	            "title": "",
+	            "levelTwoTitle": "",
+	            "columns": [
+	                {
+	                    "title": "Offer Decline %",
+	                    "levelTwoTitle": "",
+	                    "key": "Col0"
+	                },
+	                {
+	                    "title": "Conversion Ratio (Start<>Accept)",
+	                    "levelTwoTitle": "",
+	                    "key": "Col1"
+	                },
+	                {
+	                    "title": "Average time to fill",
+	                    "levelTwoTitle": "",
+	                    "key": "Col2"
+	                }
+	            ],
+	            "data": [
+	                {
+	                    "Col0": "--",
+	                    "Col1": "--",
+	                    "Col2": "--"
+	                }
+	            ],
+	            "footer": "Red/Green indicated comparison for your Function Average"
+	        }
+	    }
+	}
+]

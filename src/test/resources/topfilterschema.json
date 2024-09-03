@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "welcomeText": {
+      "type": "string"
+    },
+    "manager": {
+      "type": "boolean"
+    },
+    "reporteeList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "reporteeName": {
+            "type": "string"
+          },
+          "reporteeEmail": {
+            "type": "string"
+          },
+          "positionName": {
+            "type": "string"
+          },
+          "selected": {
+            "type": "boolean"
+          },
+          "value": {
+            "type": "string"
+          },
+          "heirarchy": {
+            "type": "array",
+            "items": {}
+          }
+        },
+        "required": [
+          "reporteeName",
+          "reporteeEmail",
+          "positionName",
+          "selected",
+          "value",
+          "heirarchy"
+        ]
+      }
+    },
+    "timelineList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "timelineText": {
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          },
+          "selected": {
+            "type": "boolean"
+          },
+          "timelineKey": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "timelineText",
+          "year",
+          "selected",
+          "timelineKey"
+        ]
+      }
+    },
+    "spanList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "spanText": {
+            "type": "string"
+          },
+          "selected": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "spanText",
+          "selected"
+        ]
+      }
+    },
+    "reporteeListToolTip": {
+      "type": "string"
+    },
+    "spanListToolTip": {
+      "type": "string"
+    },
+    "hrbp": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "welcomeText",
+    "manager",
+    "reporteeList",
+    "timelineList",
+    "spanList",
+    "reporteeListToolTip",
+    "spanListToolTip",
+    "hrbp"
+  ]
+}

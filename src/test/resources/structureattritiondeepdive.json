@@ -1,0 +1,200 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome7",
+    "definitions": {
+        "Welcome7": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "seperationReason": {
+                    "$ref": "#/definitions/SeperationReason"
+                },
+                "grade": {
+                    "$ref": "#/definitions/AttritionType"
+                },
+                "performance": {
+                    "$ref": "#/definitions/AttritionType"
+                },
+                "gender": {
+                    "$ref": "#/definitions/AttritionType"
+                },
+                "attritionType": {
+                    "$ref": "#/definitions/AttritionType"
+                }
+            },
+            "required": [
+                "attritionType",
+                "gender",
+                "grade",
+                "performance",
+                "seperationReason"
+            ],
+            "title": "Welcome7"
+        },
+        "AttritionType": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "legend": {
+                    "$ref": "#/definitions/Legend"
+                },
+                "series": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Series"
+                    }
+                },
+                "xaxis": {
+                    "$ref": "#/definitions/Axis"
+                },
+                "yaxis": {
+                    "$ref": "#/definitions/Axis"
+                }
+            },
+            "required": [
+                "legend",
+                "series",
+                "xaxis",
+                "yaxis"
+            ],
+            "title": "AttritionType"
+        },
+        "Legend": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "data"
+            ],
+            "title": "Legend"
+        },
+        "Series": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                },
+                "values": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                },
+                "type": {
+                    "$ref": "#/definitions/Type"
+                }
+            },
+            "required": [
+                "data",
+                "name",
+                "type",
+                "values"
+            ],
+            "title": "Series"
+        },
+        "Axis": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "type": {
+                    "type": "string"
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "data",
+                "type"
+            ],
+            "title": "Axis"
+        },
+        "SeperationReason": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "levelTwoTitle": {
+                    "type": "string"
+                },
+                "openCount": {
+                    "type": "integer"
+                },
+                "completedCount": {
+                    "type": "integer"
+                },
+                "columns": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Column"
+                    }
+                },
+                "data": {
+                    "type": "array",
+                    "items": {}
+                },
+                "footer": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "columns",
+                "completedCount",
+                "data",
+                "footer",
+                "levelTwoTitle",
+                "openCount",
+                "title"
+            ],
+            "title": "SeperationReason"
+        },
+        "Column": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "levelTwoTitle": {
+                    "type": "string"
+                },
+                "key": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "key",
+                "levelTwoTitle",
+                "title"
+            ],
+            "title": "Column"
+        },
+        "Type": {
+            "type": "string",
+            "enum": [
+                "bar",
+                "line"
+            ],
+            "title": "Type"
+        }
+    }
+}

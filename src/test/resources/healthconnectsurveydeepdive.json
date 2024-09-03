@@ -1,0 +1,159 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome1",
+    "definitions": {
+        "Welcome1": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "levelTwoTitle": {
+                    "type": "string"
+                },
+                "openCount": {
+                    "type": "integer"
+                },
+                "completedCount": {
+                    "type": "integer"
+                },
+                "columns": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Column"
+                    }
+                },
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Datum"
+                    }
+                },
+                "footer": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "columns",
+                "completedCount",
+                "data",
+                "footer",
+                "levelTwoTitle",
+                "openCount",
+                "title"
+            ],
+            "title": "Welcome1"
+        },
+        "Column": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "levelTwoTitle": {
+                    "type": "string"
+                },
+                "key": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "key",
+                "levelTwoTitle",
+                "title"
+            ],
+            "title": "Column"
+        },
+        "Datum": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "Col0": {
+                    "$ref": "#/definitions/Col"
+                },
+                "Col1": {
+                    "$ref": "#/definitions/Col"
+                },
+                "Col2": {
+                    "$ref": "#/definitions/Col"
+                },
+                "Col3": {
+                    "$ref": "#/definitions/Col"
+                }
+            },
+            "required": [
+                "Col0",
+                "Col1",
+                "Col2",
+                "Col3"
+            ],
+            "title": "Datum"
+        },
+        "Col": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "color": {
+                    "$ref": "#/definitions/Color"
+                },
+                "displayText": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string"
+                        }
+                    ]
+                },
+                "statisticsVal": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string"
+                        }
+                    ]
+                },
+                "statisticsTrendInd": {
+                    "anyOf": [
+                        {
+                            "$ref": "#/definitions/StatisticsTrendInd"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ]
+                }
+            },
+            "required": [
+                "color",
+                "displayText",
+                "statisticsTrendInd",
+                "statisticsVal"
+            ],
+            "title": "Col"
+        },
+        "Color": {
+            "type": "string",
+            "enum": [
+                "black",
+                "green",
+                "red"
+            ],
+            "title": "Color"
+        },
+        "StatisticsTrendInd": {
+            "type": "string",
+            "enum": [
+                "UP",
+                "NEUTRAL",
+                "DOWN"
+            ],
+            "title": "StatisticsTrendInd"
+        }
+    }
+}

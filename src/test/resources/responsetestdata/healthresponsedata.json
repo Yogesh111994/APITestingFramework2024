@@ -1,0 +1,184 @@
+[
+	{
+	    "health": {
+	        "summaryToolTips": {
+	            "trends": "- Measured as part of Connect Survey (average of 17 questions) \n- Red is lower than func. avg. / Green is higher than func. avg.",
+	            "highlights": "- Top 5 Scoring areas for you \n- Red is lower than func. avg. / Green is higher than func. avg.",
+	            "gaps": "- Bottom 5 Scoring areas for you \n- Red is lower than func. avg. / Green is higher than func. avg."
+	        },
+	        "trends": [
+	            {
+	                "displayLabel": "2023-24 : ",
+	                "displayValue": "Respondents - 0 (0%)",
+	                "statisticsVal": "86%",
+	                "statisticsTrendInd": "UP",
+	                "color": "green",
+	                "itemChanged": null,
+	                "cardItemList": [],
+	                "funnelItemList": [],
+	                "toolTip": "# / % of Employees who took the survey out of your eligible span"
+	            },
+	            {
+	                "displayLabel": "2022-23 : ",
+	                "displayValue": "Respondents - 0 (0%)",
+	                "statisticsVal": "74%",
+	                "statisticsTrendInd": "DOWN",
+	                "color": "red",
+	                "itemChanged": null,
+	                "cardItemList": [],
+	                "funnelItemList": [],
+	                "toolTip": "# / % of Employees who took the survey out of your eligible span"
+	            },
+	            {
+	                "displayLabel": "2021-22 : ",
+	                "displayValue": "Respondents - 8 (57%)",
+	                "statisticsVal": "92%",
+	                "statisticsTrendInd": "UP",
+	                "color": "green",
+	                "itemChanged": null,
+	                "cardItemList": [],
+	                "funnelItemList": [],
+	                "toolTip": "# / % of Employees who took the survey out of your eligible span"
+	            }
+	        ],
+	        "highlights": [
+	            {
+	                "displayLabel": "Top 5 Scoring Areas",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Flexibility to balance work / personal needs",
+	                        "displayValue": "",
+	                        "statisticsVal": "100%",
+	                        "statisticsTrendInd": "UP",
+	                        "color": "green",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Encouraged to learn from failures",
+	                        "displayValue": "",
+	                        "statisticsVal": "100%",
+	                        "statisticsTrendInd": "UP",
+	                        "color": "green",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Clear understanding of Roles / Expectations",
+	                        "displayValue": "",
+	                        "statisticsVal": "100%",
+	                        "statisticsTrendInd": "UP",
+	                        "color": "green",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Ongoing connects with Managers (Formal / Informal)",
+	                        "displayValue": "",
+	                        "statisticsVal": "100%",
+	                        "statisticsTrendInd": "UP",
+	                        "color": "green",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Inputs / opinion taken into consideration for my areas of work",
+	                        "displayValue": "",
+	                        "statisticsVal": "92%",
+	                        "statisticsTrendInd": "UP",
+	                        "color": "green",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": ""
+	            }
+	        ],
+	        "gaps": [
+	            {
+	                "displayLabel": "Lowest 5 Scoring Areas",
+	                "displayValue": "",
+	                "statisticsVal": null,
+	                "statisticsTrendInd": null,
+	                "color": "black",
+	                "itemChanged": null,
+	                "cardItemList": [
+	                    {
+	                        "displayLabel": "Manager gives guidance for career growth in the Org, in line with tech journey",
+	                        "displayValue": "",
+	                        "statisticsVal": "60%",
+	                        "statisticsTrendInd": "DOWN",
+	                        "color": "red",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "My manager provided the midyear feedback in line with conversations I had in the last 6 months.",
+	                        "displayValue": "",
+	                        "statisticsVal": "67%",
+	                        "statisticsTrendInd": "DOWN",
+	                        "color": "red",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "I could identify my strength and development areas based on the feedback received.",
+	                        "displayValue": "",
+	                        "statisticsVal": "67%",
+	                        "statisticsTrendInd": "DOWN",
+	                        "color": "red",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Manager gives guidance for career growth in the Org.",
+	                        "displayValue": "",
+	                        "statisticsVal": "71%",
+	                        "statisticsTrendInd": "NEUTRAL",
+	                        "color": "black",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    },
+	                    {
+	                        "displayLabel": "Equipped with tools & resources",
+	                        "displayValue": "",
+	                        "statisticsVal": "75%",
+	                        "statisticsTrendInd": "DOWN",
+	                        "color": "red",
+	                        "itemChanged": null,
+	                        "cardItemList": [],
+	                        "funnelItemList": [],
+	                        "toolTip": ""
+	                    }
+	                ],
+	                "funnelItemList": [],
+	                "toolTip": ""
+	            }
+	        ]
+	    }
+	}
+]
